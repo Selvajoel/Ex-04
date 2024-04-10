@@ -93,7 +93,7 @@ return buf.toString(); }
 ```
 ## OUTPUT:
 ```
-![WhatsApp Image 2024-04-10 at 21 58 18](https://github.com/ilaya27464/Ex-04/assets/127576283/18ae9876-7a21-49b8-9d80-3775d01132c0)
+![WhatsApp Image 2024-04-10 at 21 58 18](https://github.com/ilaya27464/Ex-04/assets/127576283/43d8d49c-6b3d-4266-9d41-34bdc331b8d6)
 
 
 ```
