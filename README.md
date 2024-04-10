@@ -92,13 +92,11 @@ return buf.toString(); }
 }
 ```
 ## OUTPUT:
-```
-![output](https://github.com/ilaya27464/Ex-04/assets/127576283/f6b3d071-31f8-4d1d-a8c0-74336010b987)
+
+![output](https://github.com/ilaya27464/Ex-04/assets/127576283/6cac998e-007c-4121-aa55-63b972607c09)
 
 
 
-
-```
 ## RESULT:
 Thus SHA was implemented successfully.
 
@@ -219,7 +217,10 @@ signature\n ");
 }
 ```
 ## OUTPUT:
-![image](https://github.com/IsaacAIML2023/Ex-04/assets/158465339/337034c5-ea1c-4332-a753-7c5b679325f2)
+![Screenshot 2024-04-10 221432](https://github.com/ilaya27464/Ex-04/assets/127576283/94fac50d-cf70-4fec-847a-9d6093a75a7c)
+
+
+![Screenshot 2024-04-10 221421](https://github.com/ilaya27464/Ex-04/assets/127576283/2d282e21-e55e-4ddf-a0b6-6362bfda0e59)
 
 ## RESULT:
 Thus program to implement the signature scheme named digital signature standard (Euclidean Algorithm) is implementeds successfully.
