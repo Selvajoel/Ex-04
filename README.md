@@ -92,18 +92,11 @@ return buf.toString(); }
 }
 ```
 ## OUTPUT:
-```
-C:\Program Files\Java\jdk1.6.0_20\bin>javac SHA1.java
-C:\Program Files\Java\jdk1.6.0_20\bin>java SHA1
-Message digest object info:
-Algorithm = SHA1
-Provider = SUN version 1.6
-ToString = SHA1 Message Digest from SUN, <initialized>
-SHA1("") = DA39A3EE5E6B4B0D3255BFEF95601890AFD80709
-SHA1("abc") = A9993E364706816ABA3E25717850C26C9CD0D89D
-SHA1("abcdefghijklmnopqrstuvwxyz") =
-32D10C7B8CF96570CA04CE37F2A19D84240D3A89
-```
+
+![output](https://github.com/ilaya27464/Ex-04/assets/127576283/6cac998e-007c-4121-aa55-63b972607c09)
+
+
+
 ## RESULT:
 Thus SHA was implemented successfully.
 
@@ -224,7 +217,10 @@ signature\n ");
 }
 ```
 ## OUTPUT:
-![image](https://github.com/IsaacAIML2023/Ex-04/assets/158465339/337034c5-ea1c-4332-a753-7c5b679325f2)
+![Screenshot 2024-04-10 221432](https://github.com/ilaya27464/Ex-04/assets/127576283/94fac50d-cf70-4fec-847a-9d6093a75a7c)
+
+
+![Screenshot 2024-04-10 221421](https://github.com/ilaya27464/Ex-04/assets/127576283/2d282e21-e55e-4ddf-a0b6-6362bfda0e59)
 
 ## RESULT:
 Thus program to implement the signature scheme named digital signature standard (Euclidean Algorithm) is implementeds successfully.
